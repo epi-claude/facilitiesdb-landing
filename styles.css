@@ -114,12 +114,14 @@ img { display: block; max-width: 100%; }
 .wordmark-sm { font-size: 1.125rem; }
 
 .logo-img {
-  height: 28px;
+  height: 112px;
   width: auto;
   display: block;
+  margin: -24px -12px;
 }
 .logo-img-sm {
-  height: 22px;
+  height: 88px;
+  margin: -20px -10px;
 }
 
 .nav {
