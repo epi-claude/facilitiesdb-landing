@@ -107,8 +107,20 @@ img { display: block; max-width: 100%; }
   font-size: 1.375rem;
   color: var(--navy);
   letter-spacing: -0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
 }
 .wordmark-sm { font-size: 1.125rem; }
+
+.logo-img {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+.logo-img-sm {
+  height: 22px;
+}
 
 .nav {
   display: flex;
